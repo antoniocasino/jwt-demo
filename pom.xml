@@ -59,7 +59,7 @@
 					<artifactId>aspectjrt</artifactId>
 				</exclusion>
 			</exclusions>
-			<version>1.11.4.RELEASE</version>
+			<version>1.11.23.RELEASE</version>
 		</dependency>
 
 		<dependency>
